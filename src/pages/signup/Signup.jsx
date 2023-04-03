@@ -5,7 +5,12 @@ export default function Signup() {
   return (
     <>
       <Header />
-      <div>SignUp</div>
+      <div className='sidebar'>
+        <h3>SignUp</h3>
+      </div>
+      <div className='main-content'>
+
+      </div>
     </>
   )
 }

@@ -5,7 +5,12 @@ export default function NewPost() {
     return (
         <>
             <Header />
-            <div>New pOst</div>
+            <div className='sidebar'>
+                   <h3>New Post</h3>
+                </div>
+                <div className='main-content'>
+
+                </div>
         </>
     )
 }
