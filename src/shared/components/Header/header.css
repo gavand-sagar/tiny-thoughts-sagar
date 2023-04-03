@@ -1,0 +1,30 @@
+.app-header {
+    position: sticky;
+    top: 0;
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    border-bottom: 3px solid greenyellow;
+}
+
+
+.app-title {
+    flex: 1;
+}
+
+
+.app-nav {
+    flex: 2;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+
+.app-account {
+    flex: 1;
+    display: flex;
+    gap: 10px;
+    justify-content: end;
+    align-items: center;
+}

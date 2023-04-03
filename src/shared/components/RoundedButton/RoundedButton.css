@@ -1,0 +1,10 @@
+.rounded-button{
+    background: linear-gradient(to bottom right,purple,red);
+    border-radius: 1rem;
+    height: 2rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    color: white;
+    border: none;
+    margin: 5px;
+}
