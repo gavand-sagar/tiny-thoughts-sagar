@@ -10,7 +10,7 @@ export default function Login() {
                    <h3>Login</h3>
                 </div>
                 <div className='main-content'>
-
+                
                 </div>
             </div>
         </>
