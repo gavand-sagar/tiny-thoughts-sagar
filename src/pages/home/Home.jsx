@@ -21,7 +21,10 @@ export default function Home() {
                     }
                 </div>
                 <div className='main-content'>
-                    <Thought post={{title:'Java, eh?'}}></Thought>
+                    <Thought post={{ title: 'Java, eh?', author: 'home simpson',content:"Java?" }}></Thought>
+                    <Thought post={{ title: 'Java, eh?', author: 'home simpson',content:"Java?" }}></Thought>
+                    <Thought post={{ title: 'Java, eh?', author: 'home simpson',content:"Java?" }}></Thought>
+                    <Thought post={{ title: 'Java, eh?', author: 'home simpson',content:"Java?" }}></Thought>
                 </div>
             </div>
 
